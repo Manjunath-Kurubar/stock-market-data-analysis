@@ -32,11 +32,9 @@ This was built as a hands-on learning project to understand pandas, data visuali
 - **RELIANCE** was the most stable in terms of volatility (1.17%) but had the lowest average returns (0.013%)
 
 ## 📈 Charts
-   
-   <img width="1920" height="866" alt="Screenshot 2026-08-24 144224" src="https://github.com/user-attachments/assets/54240282-53e8-   470c-ac58-18b286aaec21" />
+   <img width="1920" height="866" alt="Screenshot 2026-08-24 144224" src="https://github.com/user-attachments/assets/5ef5d0f9-5cea-4210-aea1-0747966d964d" />
 
-  <img width="1920" height="856" alt="Screenshot 2026-08-24 144234" src="https://github.com/user-attachments/assets/471ee852-193b-  4725-b37c-e31e362b812d" />
-
+   <img width="1920" height="856" alt="Screenshot 2026-08-24 144234" src="https://github.com/user-attachments/assets/eee11628-e851-445e-ba85-c72404323fd8" />
 
 
 ## 🚀 How to Run
