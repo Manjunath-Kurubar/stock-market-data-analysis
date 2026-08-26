@@ -1,4 +1,4 @@
-<img width="1920" height="866" alt="Screenshot 2026-08-24 144224" src="https://github.com/user-attachments/assets/93b4fa4a-6cde-495d-bb9f-869a314bbd76" /># Stock Market Data Analysis
+# Stock Market Data Analysis
 
 Analyzing stock price trends, returns, and volatility using Python, pandas, and matplotlib.
 
